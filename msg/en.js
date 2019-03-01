@@ -1,5 +1,7 @@
 var MSG = {
   lang: "en",
+  catEim: "EIM Expand",
+  catEimCore: "EIM Core",
   catLoadingBlocks: "Loading...",
   update: "update 2017.08.29",
   title: "(Trial) Webduino Blockly Editor",

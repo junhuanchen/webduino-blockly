@@ -763,3 +763,12 @@ Blockly.Msg.WEBDUINO_IRRRECV_COLOR = "Area color:";
 // Tutorials - RFID
 
 Blockly.Msg.WEBDUINO_RFID_SHOW = "Show RFID code";
+
+Blockly.Msg.eim = "eim";
+Blockly.Msg.eim_broadcast = "broadcast";
+Blockly.Msg.eim_topic = "topic";
+Blockly.Msg.eim_payload = "payload";
+Blockly.Msg.eim_message = "message";
+Blockly.Msg.eim_listen = "listen";
+Blockly.Msg.eim_info = "every is message!";
+Blockly.Msg.eim_dict = "dict";

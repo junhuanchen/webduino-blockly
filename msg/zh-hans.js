@@ -1,5 +1,7 @@
 var MSG = {
   lang: "zh-hans",
+  catEim: "EIM 拓展",
+  catEimCore: "EIM 核心",
   catLoadingBlocks: "载入积木",
   update: "update 2017.08.29",
   title: "(体验版) Webduino Blockly 编辑器",
